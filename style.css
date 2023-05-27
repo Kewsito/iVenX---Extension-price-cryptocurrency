@@ -1,0 +1,59 @@
+.TITULO{
+    color: #fff ;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: grey;
+    color: antiquewhite;
+    text-align: center;
+    list-style: none;
+}
+
+.resultados{
+    font-size: 25px;
+}
+
+.todas{
+    width: 400px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+    
+.lista-container{
+    color: #fff;
+    width: 100px;
+    height: 100px;
+}
+.resultados{
+    background-color: rgba(0, 0, 0, 0.5);
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    margin: auto;
+}
+.dev{
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+}

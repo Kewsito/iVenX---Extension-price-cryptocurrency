@@ -1,0 +1,11 @@
+{
+    "name": "iVenX",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "iVenX, nunca perderás de vista las fluctuaciones del mercado de criptomonedas. Mantén un seguimiento en tiempo real de tus inversiones y toma decisiones fundamentadas para aprovechar al máximo el emocionante mundo de las criptomonedas. iVenX utiliza la API de cryptoprice para actualizar los precios de las criptomonedas",
+    "action":{
+        "default_icon":"/icons/cryptocurrency.png",
+        "default_popup":"index.html"
+    }
+
+}
