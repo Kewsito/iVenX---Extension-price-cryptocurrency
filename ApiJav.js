@@ -1,7 +1,7 @@
 
 // CODIGO 
 
-const apikey = "a4UqS75qPybdjCwHnDHKkA==hnKr3VbuW5CZrtck"
+const apikey = "your-token"
 const apiurl = "https://api.api-ninjas.com/v1/cryptoprice?symbol="
 const apimon = "https://api.api-ninjas.com/v1/cryptosymbols?"
 const resultados = document.getElementById('resultados');
